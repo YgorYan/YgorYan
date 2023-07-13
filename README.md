@@ -4,7 +4,8 @@
   <ing src= "https://media.licdn.com/dms/image/D4D16AQG_g6uUrPT1mw/profile-displaybackgroundimage-shrink_350_1400/0/1688059360155?e=1694649600&v=beta&t=hfg4BriyYvrxITpqKamKGxTE4rz6TKtl4baQI7WiBWY"alt="Sublime´s custom image"/>
 </p>
 
-# Oi 👋, me chamo Ygor Yan Ferreira sou atraído por Analise e ciencia de dados, Power BI & Big Data!!
+# Olá 👋
+Me chamo Ygor Yan Ferreira sou atraído por Analise e ciencia de dados, Power BI & Big Data!!
 
 Sendo um profissional afixionado por dados que tem uma paixão e dedicação em trabalhar com dados, analisando e interpretando dados para descobrir padrões e insights valiosos. Com habilidades técnicas sólidas e conhecimento estatístico, sendo capaz de extrair informações significativas dos dados. Além disso sendo capaz de transmitir os resultados de forma clara e compreensível auxiliando a empresa a tomar decisões e alcançar vantagem competitiva por meio da utilização estratégica dos dados.
 
