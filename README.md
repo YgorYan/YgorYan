@@ -1,33 +1,20 @@
-<h1 align="center">Oi 👋, me chamo Ygor Yan Ferreira</h1>
-<h3 align="center">Atraído por Analise e ciencia de dados, Power BI & Big Data!!</h3>
+<h1 align ="center">Welcome!</h1>
 
-- 🌱 Atualmente estou me aperfeiçoando **Python para analise de dados e SISS para ETL**
-
-- 💬 Me pergunte sobre: **Power BI, Sql Server, MySql, Dax, Python e Exel**
-
-- 📫 Contate-me via e-mail **ygorpain@gmail.com**
-
-- 📄 Saiba mais sobre minha experiencia e capacitação [https://www.linkedin.com/in/ygor-yan-5b1658186/](https://www.linkedin.com/in/ygor-yan-5b1658186/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ygor-yan-5b1658186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ygor-yan-5b1658186/" height="30" width="40" /></a>
-<a href="https://instagram.com/@ygory.brand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ygory.brand" height="30" width="40" /></a>
+<p align ="center">
+  <ing src= "https://media.licdn.com/dms/image/D4D16AQG_g6uUrPT1mw/profile-displaybackgroundimage-shrink_350_1400/0/1688059360155?e=1694649600&v=beta&t=hfg4BriyYvrxITpqKamKGxTE4rz6TKtl4baQI7WiBWY"alt="Sublime´s custom image"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<!---
+# Oi 👋, me chamo Ygor Yan Ferreira sou atraído por Analise e ciencia de dados, Power BI & Big Data!!
+
+Sendo um profissional afixionado por dados que tem uma paixão e dedicação em trabalhar com dados, analisando e interpretando dados para descobrir padrões e insights valiosos. Com habilidades técnicas sólidas e conhecimento estatístico, sendo capaz de extrair informações significativas dos dados. Além disso sendo capaz de transmitir os resultados de forma clara e compreensível auxiliando a empresa a tomar decisões e alcançar vantagem competitiva por meio da utilização estratégica dos dados.
+
+## Skills 
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Postegree](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whit) ![Figma](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)![Power Point](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YgorYan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 👋 Hi, I’m @YgorYan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorYan&hide=Python,SqlServer,MySql,Dax,PowerQuery,Exel&theme=radical)
 
-<!---
-YgorYan/YgorYan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Repositório Importante
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YgorYan&repo=YgorYan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
